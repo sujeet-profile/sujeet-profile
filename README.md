@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sujeet
+# 💫 Hi 👋, I'm Sujeet Kumar
 **A passionate Software Developer from India**
 <br>Results-driven Full Stack Developer with over 2 years of experience. <br>Proficient in crafting scalable web applications using .NET (C#, ASP.NET Web API) on the backend and AngularJS for the frontend. <br>Strong expertise in SQL Server, RESTful API development, and delivering end-to-end features. <br>Known for collaborating effectively in agile environments to troubleshoot and resolve complex integration issues. <br>Demonstrated ability to translate stakeholder requirements into actionable user stories and improve project timelines. <br>Passionate about continuous learning and committed to producing high-quality software solutions that drive client satisfaction
 
